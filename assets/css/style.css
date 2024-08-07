@@ -33,4 +33,39 @@
   width: 300px;
   height: 300px;
 }
+
+footer {
+  text-align: center;
+}
+
+.footer-img {
+  width: 40px;
+  height: 40px;
+  margin: 0 15px 15px 0;
+}
+
+.linha-horizontal {
+  height: 2px;
+  background-color: #d0d0d0;
+  margin: 20px 0;
+}
+
+#video-favorito {
+  margin-bottom: 20px;
+}
+
 /*Estilos da página contato.html*/
+label {
+  display: block;
+  width: 100%;
+}
+
+button {
+  margin-top: 15px;
+  display: block;
+}
+
+#txtNome,
+#txtEmail {
+  margin-bottom: 5px;
+}
